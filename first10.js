@@ -26,4 +26,25 @@
 // }
 
 
- 
+let score = 75;
+
+if(score >= 90 && score <=100){
+    let grade = 'A';
+    console.log('your grade =', grade)
+}
+else if(score >= 80 && score <= 89){
+    let grade = 'B';
+    console.log('your grade =', grade);
+}
+else if(score >=70 && score <=79){
+    let grade = 'C';
+    console.log('your grade =', grade);
+}
+else if(score >=60 && score <=69){
+    let grade = 'D';
+    console.log('your grade =', grade);
+}
+else{
+    let grade = 'F';
+    console.log('your grade =', grade);
+}
