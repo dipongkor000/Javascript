@@ -77,3 +77,46 @@
 //     grade = "F";
 // }
 // console.log("according to your score, your grade was :", grade);
+
+
+// let myMark =80;
+// let friendMark = 30;
+// if(myMark >= 80){
+//     if(friendMark >=80){
+//         console.log('go for a lunch');
+//     }else if(friendMark < 80 && friendMark >= 60){
+//         console.log('good luck');
+//     }else if(friendMark < 60 && friendMark >= 40){
+//         console.log('message unseen');
+//     }else{
+//         console.log('block');
+//     }
+// }
+// else{
+//     console.log('come to home');
+// }
+
+// let num1 = 65;
+// let num2 = 45;
+// let result;
+// if(num1 > num2){
+//     result = num1 * 2;
+// }else{
+//     result = num1 + num2;
+// }
+// console.log(result);
+
+let money = 800;
+let age = 60;
+let student = false;
+let discountPrice;
+if(age <= 10){
+    money = 0;
+}else if(student == true){
+     discountPrice = money * 50 / 100;
+}else if(age >= 60){
+    discountPrice = money - money * 15 / 100;
+}else{
+    console.log('your bill', money);
+}
+console.log('just for you', discountPrice || money);
