@@ -106,17 +106,17 @@
 // }
 // console.log(result);
 
-let money = 800;
-let age = 60;
-let student = false;
-let discountPrice;
-if(age <= 10){
-    money = 0;
-}else if(student == true){
-     discountPrice = money * 50 / 100;
-}else if(age >= 60){
-    discountPrice = money - money * 15 / 100;
-}else{
-    console.log('your bill', money);
-}
-console.log('just for you', discountPrice || money);
+// let money = 800;
+// let age = 60;
+// let student = false;
+// let discountPrice;
+// if(age <= 10){
+//     money = 0;
+// }else if(student == true){
+//     discountPrice = money * 50 / 100;
+// }else if(age >= 60){
+//     discountPrice = money - money * 15 / 100;
+// }else{
+//     console.log('your bill', money);
+// }
+// console.log('just for you', discountPrice || money);
