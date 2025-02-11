@@ -25,8 +25,8 @@
 // console.log(Array.isArray(student));
 
 // 5. Combining Arrays -->
-const fullName = ['rahim','karim','jadu','modhu','iddris'];
-const rollNum = [9,8,2,12,3];
-const addArray = fullName.concat(rollNum);
-console.log(addArray);
+// const fullName = ['rahim','karim','jadu','modhu','iddris'];
+// const rollNum = [9,8,2,12,3];
+// const addArray = fullName.concat(rollNum);
+// console.log(addArray);
 
