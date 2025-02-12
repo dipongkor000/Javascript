@@ -25,7 +25,6 @@
 //     console.log(BMI.toFixed(3));
 // }
 
-
 // let score = 75;
 // if(score >= 90 && score <=100){
 //     let grade = 'A';
@@ -47,9 +46,7 @@
 //     let grade = 'F';
 //     console.log('your grade =', grade);
 // }
-
-//alternative rule
-
+//alternative rule --
 // let score = 70;
 // let grade;
 // if(score >= 90 && score <= 100){
