@@ -1,3 +1,4 @@
+//type-1-->
 // let burger = 500;
 // let burger1 = true;
 // if(burger >=500){
@@ -8,6 +9,7 @@
 //     console.log('payment =', coke);
 // }
 
+//type-2-->
 // let weight = 50;
 // let height = 1.7;
 // let heightSquare = Math.pow(height, 2);
@@ -25,6 +27,7 @@
 //     console.log(BMI.toFixed(3));
 // }
 
+//type-3-->
 // let score = 75;
 // if(score >= 90 && score <=100){
 //     let grade = 'A';
@@ -75,7 +78,7 @@
 // }
 // console.log("according to your score, your grade was :", grade);
 
-
+//type-4-->
 // let myMark =80;
 // let friendMark = 30;
 // if(myMark >= 80){
@@ -93,6 +96,7 @@
 //     console.log('come to home');
 // }
 
+//type-5-->
 // let num1 = 65;
 // let num2 = 45;
 // let result;
@@ -103,6 +107,7 @@
 // }
 // console.log(result);
 
+//type-6-->
 // let money = 800;
 // let age = 60;
 // let student = false;
